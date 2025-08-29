@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900045675831",
+    "project_id": "shoequiz",
+    "storage_bucket": "shoequiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900045675831:android:3ca9101fa535677c564eb2",
+        "android_client_info": {
+          "package_name": "com.example.colorkickquiz_finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQ34qvIzDz0JIB5PL23UOeee48wKtffI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
